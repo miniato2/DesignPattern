@@ -1,8 +1,8 @@
-import Duck.Duck;
+import duck.Duck;
 import behavior.FlyBehavior;
 
-import Duck.RubberDuck;
-import Duck.MallardDuck;
+import duck.RubberDuck;
+import duck.MallardDuck;
 import behavior.FlyNoWay;
 
 public class Application {

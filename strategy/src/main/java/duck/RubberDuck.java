@@ -1,4 +1,4 @@
-package Duck;
+package duck;
 
 import behavior.FlyNoWay;
 import behavior.Squeak;

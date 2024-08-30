@@ -1,4 +1,4 @@
-package Duck;
+package duck;
 
 import behavior.Fly;
 import behavior.Quack;
