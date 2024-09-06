@@ -1,4 +1,6 @@
-public class Decaf extends Beverage{
+package coffee;
+
+public class Decaf extends Beverage {
     public Decaf(){
         description = "디카페인";
     }
