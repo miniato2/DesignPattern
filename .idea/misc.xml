@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/decorator" />
+    <file type="web" url="file://$PROJECT_DIR$/factory" />
     <file type="web" url="file://$PROJECT_DIR$/observer" />
     <file type="web" url="file://$PROJECT_DIR$/strategy" />
   </component>
