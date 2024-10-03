@@ -1,2 +1,2 @@
-public class PizzaStore {
+public abstract class PizzaStore {
 }
